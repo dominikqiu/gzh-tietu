@@ -1,0 +1,45 @@
+{
+  "status": "passed",
+  "dimensions": {
+    "width": 1080,
+    "height": 1440
+  },
+  "cards": [
+    {
+      "index": 1,
+      "overflow": [],
+      "fontsLoaded": true,
+      "font": "\"Microsoft YaHei\", \"PingFang SC\", \"Noto Sans CJK SC\", sans-serif"
+    },
+    {
+      "index": 2,
+      "overflow": [],
+      "fontsLoaded": true,
+      "font": "\"Microsoft YaHei\", \"PingFang SC\", \"Noto Sans CJK SC\", sans-serif"
+    },
+    {
+      "index": 3,
+      "overflow": [],
+      "fontsLoaded": true,
+      "font": "\"Microsoft YaHei\", \"PingFang SC\", \"Noto Sans CJK SC\", sans-serif"
+    },
+    {
+      "index": 4,
+      "overflow": [],
+      "fontsLoaded": true,
+      "font": "\"Microsoft YaHei\", \"PingFang SC\", \"Noto Sans CJK SC\", sans-serif"
+    },
+    {
+      "index": 5,
+      "overflow": [],
+      "fontsLoaded": true,
+      "font": "\"Microsoft YaHei\", \"PingFang SC\", \"Noto Sans CJK SC\", sans-serif"
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "visualReview": "passed: 查看逐张手机预览和拼版，检查标题、出处、中德文换行、可见字形与版面；抽查原尺寸。",
+  "sourceReview": "passed: 与自编 source.md / brief.md 对照；引文和限定条件保留，虚构演示已标识。",
+  "reviewDate": "2026-11-01",
+  "revisions": "未发现需要修改的引文或裁切。"
+}
